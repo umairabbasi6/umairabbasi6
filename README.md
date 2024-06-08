@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-<!--
-**LondheShubham153/LondheShubham153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
-I am [Umair Abbasi](https://www.linkedin.com/in/umair-abbasi-632a25290/), a DevOps Engineer from [PAK](https://en.wikipedia.org/wiki/Pakistan)&nbsp; passionate about developing production-ready applications with 2+ years of professional onsite as well as remote working experience. 🎯
+
+I am [Umair Abbasi](https://www.linkedin.com/in/umair-abbasi-632a25290/), a DevOps and MLOPS Engineer from [PAK](https://en.wikipedia.org/wiki/Pakistan)&nbsp; passionate about developing production-ready Ai models and applications with 2+ years of professional onsite as well as remote working experience. 🎯
 
 I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 
